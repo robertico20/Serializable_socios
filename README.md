@@ -1,2 +1,0 @@
-# Serializable_socios
-socios
